@@ -1,0 +1,70 @@
+body{
+    background-color:#F8CBFA;
+    
+    }
+    h1 {
+     text-align:center;
+     text-shadow: 3px 3px 2px #EC05F3;
+       color: #000;
+    }
+    h2{
+     color:#57055A;
+     font-size:40px;
+    }
+    .pintoras{
+        color:#000;
+        text-align:right;
+        font-size:30px;
+    }
+    p{
+    text-align: justify;
+    font-size:30px;
+    }
+    .pintoras1{
+        color:#000;
+        font-size:30px;
+    }
+    #nombre{
+        color:#710574;
+        text-align:center;
+    }
+    #fecha{
+        color: #EA2ABC;
+        
+    }
+    div{
+        height:800px;
+        border:dashed 5px #F400E2;
+        width:24%;
+        background:#dd94ff;
+        padding:0px;
+        margin:0px;
+        float: left;
+        box-shadow: 10px 10px #ff6ad0;
+    
+    }
+    img{
+        width: 200px; height: 200px;
+    margin: auto;
+    }
+    .todas{
+        color:#D800F4;
+        text-align: justify;
+        font-size:20px;
+        margin:5px;
+        padding: 5px;
+    }
+    .caja_principal{
+        width:500px;
+        height:500px;
+        background-color:#000; 
+        position:relative;
+    }
+    *{
+        margin:25px;
+    }
+
+    footer{
+        clear: both;
+        padding: 10px 20px;
+    }
